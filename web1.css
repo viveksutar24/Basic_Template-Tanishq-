@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+
+.a {
+    width: 100%;
+}
+
+.b {
+    padding-left: 170px;
+}
+
+.C {
+
+    padding-left: 100PX;
+    color:rgb(253, 195, 6);
+    margin-top: 90px;
+}
+.d{
+    padding-left: 280px;
+}
